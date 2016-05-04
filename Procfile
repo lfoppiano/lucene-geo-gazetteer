@@ -1,0 +1,1 @@
+web:    java -cp ./target/lucene-geo-gazetteer-0.3-SNAPSHOT-jar-with-dependencies.jar edu.usc.ir.geo.gazetteer.GeoNameResolver -i ./geoIndex/ -server
